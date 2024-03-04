@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drewporter03
-- 👀 I’m interested in Information systems
-- 🌱 I’m currently learning about agile projects
+- 👀 I’m interested in Information systems & Computer Science
+- 🌱 I’m currently learning about Algorithims, R, and Innovation
 - 💞️ I’m looking to collaborate on agile projects
 - 📫 How to reach me: Email
 
